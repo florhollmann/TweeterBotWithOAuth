@@ -1,25 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
-using System.Web.Http;
-using Microsoft.Owin;
-using System.Net.Http;
-using Microsoft.Owin.Hosting;
-using Owin;
-using System.Net;
-using System.Collections.Specialized;
-using System.Web.Helpers;
-using System.IO;
-using System.Web.Script.Serialization;
-using DotNetOpenAuth.OAuth2;
-using TweetSharp;
 using System.Diagnostics;
 using Tweetinvi;
-using System.Configuration;
 
-namespace TweeterBotWithOAuth
+namespace TwitterBotWithOAuth
 {
     public class Program
     {

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TweeterBotWithOAuth", "TweeterBotWithOAuth\TweeterBotWithOAuth.csproj", "{2775AF10-6E29-4A72-B5A5-39FD47C0E008}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterBotWithOAuth", "TweeterBotWithOAuth\TwitterBotWithOAuth.csproj", "{2775AF10-6E29-4A72-B5A5-39FD47C0E008}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
