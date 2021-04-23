@@ -13,6 +13,6 @@ namespace TwitterBotWithOAuth
         public static string authorizeUrl = ConfigurationManager.AppSettings["authorizeUrl"];
         public static string authorizeTokenUrl = ConfigurationManager.AppSettings["authorizeTokenUrl"];
         public static string callBackUrl = ConfigurationManager.AppSettings["callBackUrl"];
-
+        public static string tokenPath = ConfigurationManager.AppSettings["tokenPath"];
     }
 }
